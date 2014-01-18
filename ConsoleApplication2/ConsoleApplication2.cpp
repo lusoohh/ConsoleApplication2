@@ -6,7 +6,10 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	;;
+	;;;
+	//TODO: ghdghsgh
+
+	//NOTE: ghgh
 	return 0;
 }
 
