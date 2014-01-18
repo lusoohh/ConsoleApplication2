@@ -9,7 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	;;;
 	//TODO: ghdghsgh
 
-	//NOTE: ghgh
+	//NOTE: ghghh
 	return 0;
 }
 
